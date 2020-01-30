@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Tetris
+comment0.text=\nJava\ Tetris\ game\ clone\n\nAuthor\:\ Jan\ Bodnar\nWebsite\:\ http\://zetcode.com\n
+comment1.params=
+comment1.target=Tetris()
+comment2.params=
+comment2.target=void\ initUI()
+comment3.params=
+comment3.target=javax.swing.JLabel\ getStatusBar()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
